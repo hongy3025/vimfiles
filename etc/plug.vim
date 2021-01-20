@@ -4,8 +4,6 @@ else
     call plug#begin('$VIM/plugged')
 endif
 
-Plug 'mhinz/vim-startify'
-
 Plug 'morhetz/gruvbox'
 
 Plug 'junegunn/fzf'
@@ -33,5 +31,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'easymotion/vim-easymotion'
 
 Plug 'frazrepo/vim-rainbow'
+
+Plug 'mhinz/vim-startify'
 
 call plug#end()

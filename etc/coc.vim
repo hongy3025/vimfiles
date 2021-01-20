@@ -37,6 +37,7 @@ let g:coc_global_extensions = [
   \ 'coc-yaml',
   \ 'coc-vimlsp',
   \ 'coc-lua',
+  \ 'coc-rust-analyzer'
   \ ]
 
 " Use tab for trigger completion with characters ahead and navigate.

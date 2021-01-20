@@ -18,8 +18,8 @@ nmap <f4> :Xg "\b<C-R>=expand("<cword>")<CR>\b"<CR>
 nmap <silent> <f5> <Plug>(coc-diagnostic-prev)
 nmap <silent> <f6> <Plug>(coc-diagnostic-next)
 
-nmap <silent> > <Plug>(coc-diagnostic-prev)
-nmap <silent> < <Plug>(coc-diagnostic-next)
+nmap <silent> < <Plug>(coc-diagnostic-prev)
+nmap <silent> > <Plug>(coc-diagnostic-next)
 
 noremap <silent> <right> <c-w>l
 noremap <silent> <left>  <c-w>h
